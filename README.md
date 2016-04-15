@@ -17,3 +17,5 @@ HDM|hidden dynamic model|隐动态模型
 LSA|latent semantic analysis| 潜在语义分析  
 RNN|Recurrent Neural Network|循环神经网络
   |recursive neural network|递归神经网络
+  |attention mechanism|注意机制
+LSTM|Long-Short Term Memory|长短期记忆
