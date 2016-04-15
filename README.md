@@ -1,6 +1,7 @@
 # 人工智能相关术语
 缩写|英语|汉语
 ---|---|---|---
+AI|Artificial Intelligence|人工智能
 DNN|deep neural network|深度神经网络
 DL| deep learning|深度学习
   |named entity recognition|命名实体识别
