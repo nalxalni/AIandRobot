@@ -40,3 +40,7 @@ NTM|Neural Turing Machine|神经图灵机
 NCE|noise-contrastive estimation|噪音对比估计
 RBN|Restricted Boltzmann Machine|受限玻尔兹曼机
 ReLU|Rectified Linear Unit|线性修正单元/线性修正函数
+  |computer vision|计算机视觉
+GPU|graphics processing unit|图形处理单元/图形处理器
+CPU|Central Processing Unit|中央处理器
+
