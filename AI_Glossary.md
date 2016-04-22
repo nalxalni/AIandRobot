@@ -7,6 +7,7 @@ DL| deep learning|深度学习
   |named entity recognition|命名实体识别
   |part-of-speech tagging|词性标注
 NLP|natural language processing	|自然语言处理
+NLG|natural language generation|自然语言生成
 ASR|automatic speech recognition|自动语音识别
 GMM|Gaussian Mixture Model|高斯混合模型
 HMM|Hidden Markov Model|隐马尔可夫模型
@@ -44,4 +45,5 @@ ReLU|Rectified Linear Unit|线性修正单元/线性修正函数
 GPU|graphics processing unit|图形处理单元/图形处理器
 CPU|Central Processing Unit|中央处理器
   |convexity|凸性
+  |automatic summarization|自动摘要
 
