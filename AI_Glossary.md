@@ -46,4 +46,14 @@ GPU|graphics processing unit|图形处理单元/图形处理器
 CPU|Central Processing Unit|中央处理器
   |convexity|凸性
   |automatic summarization|自动摘要
+  |multi-document summarization|多文档摘要
+WSD|word sense disambiguation|词义消歧
+  |polarity detection|极性检测
+  |treebank|树库
+  |parse tree|解析树
+  |chunk|词块
+  |language phenomena|语言现象
+CA|conversational agent|会话代理
+  |co-occurrence|共现
+  |synset|同义词集
 
