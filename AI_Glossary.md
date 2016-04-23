@@ -11,6 +11,7 @@ NLG|natural language generation|自然语言生成
 ASR|automatic speech recognition|自动语音识别
 GMM|Gaussian Mixture Model|高斯混合模型
 HMM|Hidden Markov Model|隐马尔可夫模型
+CRF|conditional random field|条件随机域/场
 BP|backpropagation|反向传播
 HDM|hidden dynamic model|隐动态模型
   |non-negative matrix factorization|非负矩阵分解
@@ -56,4 +57,6 @@ WSD|word sense disambiguation|词义消歧
 CA|conversational agent|会话代理
   |co-occurrence|共现
   |synset|同义词集
+  |Naive Bayes Classifier|朴素贝叶斯分类器
+  |tokenization|标记化
 
