@@ -59,4 +59,5 @@ CA|conversational agent|会话代理
   |synset|同义词集
   |Naive Bayes Classifier|朴素贝叶斯分类器
   |tokenization|标记化
+  |alpha-beta pruning|α-β剪枝
 
