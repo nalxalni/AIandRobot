@@ -60,4 +60,8 @@ CA|conversational agent|会话代理
   |Naive Bayes Classifier|朴素贝叶斯分类器
   |tokenization|标记化
   |alpha-beta pruning|α-β剪枝
+  |multiple linear regression|多元线性回归
+  |perceptron|感知器
+MLP|multi layered perceptron|多层感知器
+PCA|principal component analysis|主成分分析
 
