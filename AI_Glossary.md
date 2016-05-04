@@ -64,4 +64,7 @@ CA|conversational agent|会话代理
   |perceptron|感知器
 MLP|multi layered perceptron|多层感知器
 PCA|principal component analysis|主成分分析
+PSO|Particle Swarm Optimization|粒子群优化算法
+GA|Genetic Algorithm|遗传算法
+RBF|Radial Basis Function|径向基函数
 
