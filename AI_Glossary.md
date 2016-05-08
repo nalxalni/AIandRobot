@@ -67,4 +67,6 @@ PCA|principal component analysis|主成分分析
 PSO|Particle Swarm Optimization|粒子群优化算法
 GA|Genetic Algorithm|遗传算法
 RBF|Radial Basis Function|径向基函数
+  |Random Forest Algorithm|随机森林算法
+BRE|Rule Engine|规则引擎
 
