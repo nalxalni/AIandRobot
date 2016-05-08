@@ -69,4 +69,5 @@ GA|Genetic Algorithm|遗传算法
 RBF|Radial Basis Function|径向基函数
   |Random Forest Algorithm|随机森林算法
 BRE|Rule Engine|规则引擎
+SOM|self organised map|自组织映射
 
