@@ -72,4 +72,7 @@ BRE|Rule Engine|规则引擎
 SOM|self organised map|自组织映射
   |dimensionality reduction algorithm|降维算法
   |K-Means Clustering|K-均值聚类
+  |Spectral Clustering|谱聚类
+  |latent dirichlet allocation|隐含狄利克雷分布
+SVD|Singular Value Decomposition|奇异值分解
 
