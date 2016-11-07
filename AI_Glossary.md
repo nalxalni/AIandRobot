@@ -15,9 +15,9 @@ ASR|automatic speech recognition|自动语音识别
   |average gradient |平均梯度
   |Average-Pooling|平均池化
   |**B**|
-Bi-LSTM|Bi-directional Long-Short Term Memory|双向长短期记忆
 BP|backpropagation|反向传播
 BPTT|Backpropagation Through Time|通过时间的反向传播
+Bi-LSTM|Bi-directional Long-Short Term Memory|双向长短期记忆
   |**C**|
 CPU|Central Processing Unit|中央处理器
   |chunk|词块
