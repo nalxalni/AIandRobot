@@ -47,10 +47,11 @@ CNN|convolutional neural network|卷积神经网络
   |Decision Boundary|决策边界
   |Decision Trees|决策树
 DBN|Deep Belief Network|深度信念网络
-DCGAN|Deep Convolutional Generative Adversarial Network|深度卷积生成对抗网络
+[DCGAN](https://arxiv.org/abs/1511.06434)|Deep Convolutional Generative Adversarial Network|深度卷积生成对抗网络
 DL|deep learning|深度学习
 DNN|deep neural network|深度神经网络
 DQN|Deep Q-Learning|深度Q学习
+[DNC](http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)|differentiable neural computer|可微分神经计算机
   |dimensionality reduction algorithm|降维算法
   |discriminative model|判别模型
   |discriminator|判别器
@@ -63,7 +64,7 @@ DQN|Deep Q-Learning|深度Q学习
   |End-to-End|端到端
 EM|Expectation-Maximization|期望最大化
   |Exploding Gradient Problem|梯度爆炸问题
-ELM|Extreme Learning Machine|超限学习机
+[ELM](http://axon.cs.byu.edu/~martinez/classes/678/Presentations/Yao.pdf)|Extreme Learning Machine|超限学习机
   |**F**|
 [FAIR](https://research.facebook.com/ai)|Facebook Artificial Intelligence Research|Facebook人工智能研究所
   |factorization|因子分解
@@ -74,17 +75,19 @@ ELM|Extreme Learning Machine|超限学习机
 GMM|Gaussian Mixture Model|高斯混合模型
 GA|Genetic Algorithm|遗传算法
   |Generalization|泛化
-GAN|Generative Adversarial Networks|生成对抗网络
+[GAN](https://arxiv.org/abs/1406.2661)|Generative Adversarial Networks|生成对抗网络
   |Generative Model|生成模型
   |Generator|生成器
   |Global Optimization|全局优化
 [GNMT](https://arxiv.org/abs/1609.08144)|Google Neural Machine Translation|谷歌神经机器翻译
   |Gradient Descent|梯度下降
+  |graph theory|图论
 GPU|graphics processing unit|图形处理单元/图形处理器
   |**H**|
 HDM|hidden dynamic model|隐动态模型
   |hidden layer|隐藏层
 HMM|Hidden Markov Model|隐马尔可夫模型
+  |hybrid computing|混合计算
   |Hyperparameter|超参数
   |**I**|
 ICA|Independent Component Analysis|独立成分分析
@@ -105,7 +108,7 @@ LSA|latent semantic analysis| 潜在语义分析
   |Linear Regression|线性回归
   |log likelihood|对数似然
   |Logistic Regression|Logistic回归
-LSTM|Long-Short Term Memory|长短期记忆
+[LSTM](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)|Long-Short Term Memory|长短期记忆
   |loss|损失
   |**M**|
   |Max-Pooling|最大池化
@@ -178,6 +181,8 @@ SVM|Support Vector Machine|支持向量机
   |**T**|
 t-SNE|T-Distribution Stochastic Neighbour Embedding|T-分布随机近邻嵌入
   |Tensor|张量
+TPU|Tensor Processing Units|张量处理单元
+  |the least square method|最小二乘法
   |Threshold|阙值
   |Time Step|时间步骤
   |tokenization|标记化
