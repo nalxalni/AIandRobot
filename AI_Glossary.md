@@ -8,8 +8,10 @@
   |Activation Function|激活函数
   |Adversarial Networks|对抗网络
   |Affine Layer|仿射层
+  |algorithm|算法
   |alpha-beta pruning|α-β剪枝
-  |Approximation|近似
+  |anomaly detection|异常检测
+  |approximation|近似
 AGI|Artificial General Intelligence|通用人工智能
 AI|Artificial Intelligence|人工智能
   |association analysis|关联分析
@@ -32,10 +34,14 @@ Bi-LSTM|Bi-directional Long-Short Term Memory|双向长短期记忆
   |**C**|
 CPU|Central Processing Unit|中央处理器
   |chunk|词块
+  |clustering|聚类
+  |cluster analysis|聚类分析
   |co-adapting|共适应
   |co-occurrence|共现
   |Computation Cost|计算成本
+  |Computational Linguistics|计算语言学
   |computer vision|计算机视觉
+  |concept drift|概念漂移
 CRF|conditional random field|条件随机域/场
   |convergence|收敛
 CA|conversational agent|会话代理
@@ -50,12 +56,14 @@ DBN|Deep Belief Network|深度信念网络
 [DCGAN](https://arxiv.org/abs/1511.06434)|Deep Convolutional Generative Adversarial Network|深度卷积生成对抗网络
 DL|deep learning|深度学习
 DNN|deep neural network|深度神经网络
-DQN|Deep Q-Learning|深度Q学习
+  |Deep Q-Learning|深度Q学习
+DQN|Deep Q-Network|深度Q网络
 [DNC](http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)|differentiable neural computer|可微分神经计算机
   |dimensionality reduction algorithm|降维算法
   |discriminative model|判别模型
   |discriminator|判别器
   |divergence|散度
+  |domain adaption|领域自适应
   |Dropout|
   |Dynamic Fusion|动态融合
   |**E**|
@@ -88,7 +96,7 @@ HDM|hidden dynamic model|隐动态模型
   |hidden layer|隐藏层
 HMM|Hidden Markov Model|隐马尔可夫模型
   |hybrid computing|混合计算
-  |Hyperparameter|超参数
+  |hyperparameter|超参数
   |**I**|
 ICA|Independent Component Analysis|独立成分分析
   |input|输入
@@ -105,12 +113,14 @@ KB|knowledge base|知识库
   |**L**|
   |Latent Dirichlet Allocation|隐狄利克雷分布
 LSA|latent semantic analysis| 潜在语义分析
+  |learner|学习器
   |Linear Regression|线性回归
   |log likelihood|对数似然
   |Logistic Regression|Logistic回归
 [LSTM](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)|Long-Short Term Memory|长短期记忆
   |loss|损失
   |**M**|
+MT|machine translation|机器翻译
   |Max-Pooling|最大池化
   |Maximum Likelihood|最大似然
   |minimax game|最小最大博弈
@@ -118,6 +128,7 @@ LSA|latent semantic analysis| 潜在语义分析
 MLP|Multilayer Perceptron|多层感知器
   |multi-document summarization|多文档摘要
 MLP|multi layered perceptron|多层感知器
+  |multimodal learning|多模态学习
   |multiple linear regression|多元线性回归
   |**N**|
   |Naive Bayes Classifier|朴素贝叶斯分类器
@@ -136,6 +147,7 @@ NCE|noise-contrastive estimation|噪音对比估计
   |objective function|目标函数
   |Off-Policy|离策略
   |On-Policy|在策略
+  |one shot learning|一次性学习
   |output|输出
   |**P**|
   |Parameter|参数
@@ -169,11 +181,14 @@ RBM|Restricted Boltzmann Machine|受限玻尔兹曼机
 RE|Rule Engine|规则引擎
   |**S**|
   |saddle point|鞍点
+  |Self-Driving|自动驾驶
 SOM|self organised map|自组织映射
   |Semi-Supervised Learning|半监督学习
   |sentiment analysis| 情感分析
+SLAM|simultaneous localization and mapping|同步定位与地图构建
 SVD|Singular Value Decomposition|奇异值分解
   |Spectral Clustering|谱聚类
+  |Speech Recognition|语音识别
 SGD|stochastic gradient descent| 随机梯度下降
   |supervised learning|监督学习
 SVM|Support Vector Machine|支持向量机
@@ -196,10 +211,13 @@ TPU|Tensor Processing Units|张量处理单元
 VC Theory|Vapnik–Chervonenkis theory|万普尼克-泽范兰杰斯理论
   |von Neumann architecture|冯·诺伊曼架构/结构
   |**W**|
+[WGAN](https://arxiv.org/abs/1701.07875)|Wasserstein GAN|
 W|weight|权重
   |word embedding|词嵌入
 WSD|word sense disambiguation|词义消歧
   |**X**|
   |**Y**|
   |**Z**|
+ZSL|zero-shot learning|零次学习
+  |zero-data learning|零数据学习
   |**0**|
