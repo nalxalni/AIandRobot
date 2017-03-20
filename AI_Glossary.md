@@ -8,6 +8,7 @@
   |Activation Function|激活函数
   |Adversarial Networks|对抗网络
   |Affine Layer|仿射层
+  |agent|代理/智能体
   |algorithm|算法
   |alpha-beta pruning|α-β剪枝
   |anomaly detection|异常检测
@@ -19,7 +20,7 @@ AI|Artificial Intelligence|人工智能
   |autoencoder|自编码器
 ASR|automatic speech recognition|自动语音识别
   |automatic summarization|自动摘要
-  |average gradient |平均梯度
+  |average gradient|平均梯度
   |Average-Pooling|平均池化
   |**B**|
 BP|backpropagation|反向传播
@@ -80,6 +81,7 @@ EM|Expectation-Maximization|期望最大化
   |Featured Learning|特征学习
   |Feedforward Neural Networks|前馈神经网络
   |**G**|
+  |game theory|博弈论
 GMM|Gaussian Mixture Model|高斯混合模型
 GA|Genetic Algorithm|遗传算法
   |Generalization|泛化
@@ -195,7 +197,7 @@ SVM|Support Vector Machine|支持向量机
   |synset|同义词集
   |**T**|
 t-SNE|T-Distribution Stochastic Neighbour Embedding|T-分布随机近邻嵌入
-  |Tensor|张量
+  |tensor|张量
 TPU|Tensor Processing Units|张量处理单元
   |the least square method|最小二乘法
   |Threshold|阙值
