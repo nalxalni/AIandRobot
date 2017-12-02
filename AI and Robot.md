@@ -11,6 +11,7 @@
 1989|Deep Blue|深蓝|IBM|N|AI|1997年击败了排名第一的国际象棋棋手Garry Kasparov
 2000|ASIMO||日本本田|N|机器人|Advanced Step in Innovative Mobility 日语：アシモ
 2004|Watson|沃森|IBM|N|AI|2011年在Jeopardy!比赛中获胜
+2005|BigDog|大狗|Boston Dynamics|N|[1](https://en.wikipedia.org/wiki/BigDog)
 2008|WALL-E|瓦力|WALL-E|Y|机器人|
 2013|Samantha||电影《Her》|Y|AI|超智能操作系统
 2014|AlphaGO|阿尔法围棋|Google DeepMind|N|AI|2015年10月击败欧洲围棋冠军樊麾,2016年3月击败世界围棋冠军李世石
