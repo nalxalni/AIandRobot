@@ -1,20 +1,20 @@
 # 人工智能相关术语（按首字母排序）
 
 
-缩写|英语|汉语
------|-----|-----
-  |**A**|
-  |Activation Function|激活函数
-  |Adversarial Networks|对抗网络
-  |Affine Layer|仿射层
-  |agent|代理/智能体
-  |algorithm|算法
-  |alpha-beta pruning|α-β剪枝
-  |anomaly detection|异常检测
-  |approximation|近似
-AGI|Artificial General Intelligence|通用人工智能
-AI|Artificial Intelligence|人工智能
-  |association analysis|关联分析
+|缩写|英语|汉语|
+|-----|-----|-----|
+||**A**||
+||Activation Function|激活函数|
+||Adversarial Networks|对抗网络|
+|  |Affine Layer|仿射层|
+|  |agent|代理/智能体|
+|  |algorithm|算法|
+|  |alpha-beta pruning|α-β剪枝
+|  |anomaly detection|异常检测
+|  |approximation|近似
+|AGI|Artificial General Intelligence|通用人工智能
+|AI|Artificial Intelligence|人工智能
+|  |association analysis|关联分析
   |attention mechanism|注意机制
   |autoencoder|自编码器
 ASR|automatic speech recognition|自动语音识别
