@@ -3,6 +3,7 @@
 
 |缩写|英语|汉语|
 |-----|-----|-----|
+
   |**A**|
 |  |Activation Function|激活函数|
 |  |Adversarial Networks|对抗网络|
